@@ -1,0 +1,16 @@
+#SubAnchorPane1{
+    -fx-background-color: #08315a;
+}
+
+#SubAnchorPane2{
+    -fx-background-color: #62a1d4;
+}
+
+#MainSubAnchorPane{
+    -fx-border-color: #409af4;
+    -fx-border-width: 2px;
+}
+
+#WELCOME{
+    -fx-text-fill: #77bfff;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="666.0" prefWidth="1310.0" stylesheets="@../style/login_form_style.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="library_management_system.Controller.LoginFormController">
+   <children>
+      <AnchorPane fx:id="MainSubAnchorPane" layoutX="27.0" layoutY="28.0" prefHeight="610.0" prefWidth="1257.0">
+         <children>
+            <AnchorPane fx:id="SubAnchorPane1" prefHeight="610.0" prefWidth="479.0">
+               <children>
+                  <Label fx:id="WELCOME" layoutX="151.0" layoutY="108.0" text="WELCOME" textAlignment="CENTER" textFill="WHITE" />
+               </children></AnchorPane>
+            <AnchorPane fx:id="SubAnchorPane2" layoutX="478.0" prefHeight="610.0" prefWidth="779.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
